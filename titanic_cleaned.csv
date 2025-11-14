@@ -1,0 +1,11 @@
+Name,Sex,Age,Pclass,Survived,Fare,Embarked
+"Braund, Mr. Owen Harris",male,22.0,3,0,7.25,S
+"Cumings, Mrs. John Bradley",female,38.0,1,1,71.2833,C
+"Heikkinen, Miss Laina",female,26.0,3,1,7.925,S
+"Allen, Mr. William Henry",male,35.0,2,0,26.0,S
+"Moran, Mr. James",male,27.0,3,0,8.4583,Q
+"McCarthy, Mr. Timothy",male,54.0,1,0,51.8625,S
+"Palsson, Master Gosta",male,2.0,3,0,21.075,S
+"Johnson, Mrs. Oscar",female,27.0,2,1,26.0,C
+"Williams, Mr. Charles",male,35.0,3,0,7.895,S
+"Brown, Miss Amelia",female,17.0,1,1,108.0,C
